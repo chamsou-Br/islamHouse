@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+            "name": "أذكار الصباح",
+            "translation_en": "the morning Remembrance"
+        },
+        {
+            "name": "أذكار المساء",
+            "translation_en": "the evenning Remembrance"
+        },
+        {
+            "name": "الأذكار بعد الصلاة",
+            "translation_en": "Remembrance after prayer"        
+        },
+        {
+            "name": "أذكار الشكر",
+            "translation_en": "Remembrance of thanks"
+        },
+        {
+            "name": "أذكار المغفرة",
+            "translation_en": "Remembrance of forgiveness"
+        },
+        {
+            "name": "أذكار الرزق",
+            "translation_en": "Remembrance of livelihood"
+        },
+        {
+            "name": "أذكار الصبر",
+            "translation_en": "Remembrance of patience"
+        },
+        {
+            "name": "أذكار السفر",
+            "translation_en": "Remembrance of travel"
+        },
+        {
+            "name": "أذكار قيل النوم",
+            "translation_en": "Remembrance before bad"
+        }
+    ]
+}

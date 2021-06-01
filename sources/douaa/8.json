@@ -1,0 +1,14 @@
+{
+    "name": "أذكار السفر",
+    "translation_en": "Remembrance of travel",
+    "data" : [
+        {
+            "text" : "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ" ,
+            "translation_en" : "Glory unto Him Who created this transportation, for us, though we were unable to create it on our own. And unto our Lord we shall return"
+        },
+        {
+            "text" : "رَّبِّ اَدْخِلْنِيْ مُدْخَلَ صِدْقٍ وَّاَخْرِجْنِيْ مُخْــرَجَ صِدْقٍ وَّاجْعَلْ لِّيْ مِنْ لَّدُنْكَ سُلْطٰنًا نَّصِيْرًا" ,
+            "translation_en" : "My Lord! Let my entry (to the city of Al-Madinah) be good, and likewise my exit (from the city of Makkah) be good. And grant me from You an authority to help me (or a firm sign or a proof)"
+        }
+    ]
+}
