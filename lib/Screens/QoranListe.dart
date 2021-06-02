@@ -100,7 +100,7 @@ class _QoranListeState extends State<QoranListe> {
                           width: 10,
                         ),
                         Text(
-                          '08-05-2021',
+                          '${DateTime.now().day}/${DateTime.now().month}/${DateTime.now().year}',
                           style: TextStyle(
                             fontSize: 21,
                             fontWeight: FontWeight.w600,
